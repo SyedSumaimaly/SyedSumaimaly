@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/syedsumaimaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedsumaimaly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed sumaim ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed sumaim ali" height="30" width="40" /></a>
-<a href="https://fb.com/syed sumaim ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed sumaim ali" height="30" width="40" /></a>
+<a href="[https://fb.com/syed sumaim ali](https://www.facebook.com/profile.php?id=100077065929521)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed sumaim ali" height="30" width="40" /></a>
 <a href="https://instagram.com/syed_sumaim_aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_sumaim_aly" height="30" width="40" /></a>
 </p>
 
