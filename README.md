@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Sumaim Ali</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsumaimaly&label=Profile%20views&color=0e75b6&style=flat" alt="syedsumaimaly" /> </p>
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/syedsumaimaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedsumaimaly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed sumaim ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed sumaim ali" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077065929521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077065929521" height="30" width="40" /></a>
+<a href="https://fb.com/id=100077065929521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100077065929521" height="30" width="40" /></a>
 <a href="https://instagram.com/syed_sumaim_aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_sumaim_aly" height="30" width="40" /></a>
 </p>
 
