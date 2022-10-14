@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syed Sumaim Ali</h1>
 <h3 align="center">A passionate Frontend / WordPress developer from Pakistan</h3>
 
+[![@syedsumaimali's Holopin board](https://holopin.me/syedsumaimali)](https://holopin.io/@syedsumaimali)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsumaimali&label=Profile%20views&color=0e75b6&style=flat" alt="syedsumaimali" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web & Mobile App Development**
