@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **syedsumaimaly08@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3XL6UuE](https://bit.ly/3XL6UuE)
+- 📄 Know about my experiences [https://bit.ly/3XL6UuE](https://bit.ly/40qqIFi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
