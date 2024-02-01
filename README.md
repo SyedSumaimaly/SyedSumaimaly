@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Sumaim Ali</h1>
 <h3 align="center">A passionate Junior Frontend & WordPress Developer from Pakistan</h3>
 
-[![@syedsumaimali's Holopin board](https://holopin.me/syedsumaimali)](https://holopin.io/@syedsumaimali)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsumaimali&label=Profile%20views&color=0e75b6&style=flat" alt="syedsumaimali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Syedsumaimaly" alt="Syedsumaimaly" /></a> </p>
+
+[![@syedsumaimali's Holopin board](https://holopin.me/syedsumaimali)](https://holopin.io/@syedsumaimali)
 
 <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
