@@ -15,9 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://sumaim-portfolio.netlify.app](https://sumaim-portfolio.netlify.app)
-
-- 📝 I regularly write articles on [www.theeducationstree.com](www.theeducationstree.com)
+- 👨‍💻 All of my projects are available at [https://sumaim-portfolio.vercel.app/](https://sumaim-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React.js and Wordpress**
 
